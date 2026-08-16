@@ -5,7 +5,7 @@
 **Backend Engineer · Go · Microservices · Cloud-Native**
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-gorigapudi-05a4703b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeepgorigapudi/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-300%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sandeep_Gorigapudi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepgorigapudi@gmail.com)
 
@@ -44,7 +44,7 @@ I write clean, idiomatic **Go**, build event-driven systems on **Apache Kafka**,
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sandeep-gorigapudi-05a4703b8/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sandeepgorigapudi/)
 - 🌐 [GitHub](https://github.com/sandeep-gorigapudi) — you are here
 - 📧 [sandeepgorigapudi@gmail.com](mailto:sandeepgorigapudi@gmail.com)
 - 🧩 [LeetCode](https://leetcode.com/u/Sandeep_Gorigapudi/)
