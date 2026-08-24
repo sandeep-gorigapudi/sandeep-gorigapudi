@@ -13,7 +13,7 @@
 
 I'm a **Backend Engineer** with 4+ years of experience designing and shipping production-grade, high-throughput microservices in the telecom domain. I currently work on the **Saudi Telecom (STC) OSS/BSS modernization** program at **TCS**, including 2+ years on-site in Saudi Arabia collaborating directly with client stakeholders.
 
-I write clean, idiomatic **Go**, build event-driven systems on **Apache Kafka**, and deploy everything containerized with **Docker + Kubernetes**. I've solved **300+ problems on LeetCode** and I'm the author of **6 open-source Go SDKs**.
+I write clean, idiomatic **Go**, build event-driven systems on **Apache Kafka**, and deploy everything containerized with **Docker + Kubernetes**. I've solved **300+ problems on LeetCode** and I'm the author of **7 open-source Go SDKs**.
 
 ## 🛠️ Tech Stack
 
@@ -24,6 +24,7 @@ I write clean, idiomatic **Go**, build event-driven systems on **Apache Kafka**,
 | Repository | Highlights |
 |---|---|
 | [go-ai-gateway](https://github.com/sandeep-gorigapudi/go-ai-gateway) | Unified Go SDK for **6 LLM providers** (OpenAI, Claude, Gemini, DeepSeek, Groq, Ollama) behind a single interface — registry, streaming, JSON mode, token usage. |
+| [llm-meter](https://github.com/sandeep-gorigapudi/llm-meter) | Multi-tenant **token & cost metering engine** for LLM apps — atomic Redis (Lua) / PostgreSQL / in-memory backends, daily-monthly-lifetime windows, entitlement grace periods, Gin & net/http middleware. |
 | [Multi-tenant-saas-SDK](https://github.com/sandeep-gorigapudi/Multi-tenant-saas-SDK) | Production-ready **multi-tenant SaaS backend**: tenant isolation, JWT claims, RBAC, transactional registration, versioned migrations, tests, CI. |
 | [go-meta-login-sdk](https://github.com/sandeep-gorigapudi/go-meta-login-sdk) | Framework-agnostic **Meta Login + Graph API** SDK (OAuth & Embedded Signup, long-lived tokens, signed webhook HMAC verification) — zero-dependency core. |
 | [Razorpay-Go-SDK](https://github.com/sandeep-gorigapudi/Razorpay-Go-SDK) | **Razorpay subscription** SDK: lifecycle management, HMAC webhook verification, idempotent event processing. |
